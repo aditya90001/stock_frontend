@@ -19,9 +19,7 @@ st.markdown(
     ### Example Symbols
     -  AAPL
     -  MSFT
-    -  TSLA
-    -  BAJFINANCE.NS
-    -  RELIANCE.NS
+    -  NFLX(netflix)
     -  TCS.NS
     """
 )
