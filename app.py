@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 import pandas as pd
 
-API_URL = "https://stock-price-prediction-7.onrender.com"
+API_URL = "https://stock-price-prediction-12.onrender.com"
 
 st.set_page_config(
     page_title="AI Stock Price Predictor",
@@ -53,8 +53,8 @@ with c2:
         stock = "MSFT"
 
 with c3:
-    if st.button("TSLA"):
-        stock = "TSLA"
+    if st.button("NFLX"):
+        stock = "NFLX"
 
 with c4:
     if st.button("BAJFINANCE.NS"):
